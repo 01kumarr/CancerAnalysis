@@ -5,8 +5,10 @@ These data source includes two files: One contains Genetic Mutations/Variation a
 
 Both these files have common ID
 
-DATA FILES INFORMATION:
+### DATA FILES INFORMATION:
+
   training_variants(ID, Gene, Variation, Class)
+  
   training_text(ID, Text)
   
   
